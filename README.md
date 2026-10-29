@@ -1,5 +1,7 @@
 # Bike Shop Sales Dashboard
 
+![Bike shop e-commerce sales dashboard — revenue trends, KPI cards and return-rate breakdowns](assets/dashboard-thumbnail.png)
+
 An end-to-end e-commerce analytics project for a cycling retailer: synthetic
 order data, a pandas analysis pipeline, and an interactive Streamlit dashboard.
 
