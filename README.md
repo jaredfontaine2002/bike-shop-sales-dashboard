@@ -51,3 +51,13 @@ streamlit run dashboard/app.py    # launch the dashboard
 
 All data is synthetic (seeded, reproducible). Swap in a real order export with
 the same columns to run it against live data.
+
+## What I'd add next
+
+- A returns-reason breakdown. Knowing apparel comes back at ~18% is step
+  one; knowing whether it's size, colour or quality is the part a shop can
+  actually act on.
+- A live Shopify export connector instead of a generated CSV, so the same
+  pipeline runs on this week's orders.
+- A margin view, not just revenue. Bikes look like the business on revenue
+  and look very different once margin and return costs are in.
