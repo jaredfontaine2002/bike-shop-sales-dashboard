@@ -10,6 +10,14 @@ data storytelling** on a domain I know cold — I spent two years as a cycling
 expert at Curated.com ($500K+ in bike sales) and have worked bike-shop retail
 and e-commerce operations (Shopify, ShipStation, Zendesk, Gorgias).
 
+## Why I built this
+
+Selling bikes at Curated, the money questions were always the same: what
+comes back, and when does it sell. Apparel sells all day and comes back all
+day because fit is hard online. I wanted to check whether the data said what
+the sales floor felt like. It did — apparel returns run about 18%, and
+revenue peaks April to June.
+
 ## What's inside
 
 - `data/generate_data.py` — generates 2 years of realistic synthetic orders
